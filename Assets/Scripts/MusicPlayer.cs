@@ -44,7 +44,7 @@ public class MusicPlayer : MonoBehaviour {
 		if (scene.buildIndex == 0) {
 			music.clip = startClip;
 		} else {
-			if (scene.buildIndex == 2) {
+			if (scene.buildIndex == 1) {
 				music.clip = endClip;
 			} else {
 				music.clip = gameClip;

@@ -378,6 +378,10 @@ Prefab:
       propertyPath: endClip
       value: 
       objectReference: {fileID: 8300000, guid: 9cd761bce233f4db6a68a8597bd70034, type: 3}
+    - target: {fileID: 8200000, guid: 1d17c8accddfc43d593706f3365be8ab, type: 2}
+      propertyPath: m_PlayOnAwake
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 1d17c8accddfc43d593706f3365be8ab, type: 2}
   m_IsPrefabParent: 0
@@ -877,7 +881,7 @@ ParticleSystem:
   moveWithTransform: 0
   moveWithCustomTransform: {fileID: 0}
   scalingMode: 1
-  randomSeed: -1320342182
+  randomSeed: 507236203
   InitialModule:
     serializedVersion: 3
     enabled: 1
@@ -4444,7 +4448,7 @@ ParticleSystem:
   moveWithTransform: 0
   moveWithCustomTransform: {fileID: 0}
   scalingMode: 1
-  randomSeed: 1216476162
+  randomSeed: 1314421058
   InitialModule:
     serializedVersion: 3
     enabled: 1
